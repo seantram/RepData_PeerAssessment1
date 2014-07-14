@@ -135,7 +135,7 @@ xyplot(steps ~ interval | dayw, data = data6,type="l", ylab="Number of steps",  
 
 ![plot of chunk plot2](figure/plot2.png) 
 
-* There is differences in activity patterns between weekdays and weekends
+* There are differences in activity patterns between weekdays and weekends
 
 * The activity seems to be higher on weekends.
 
